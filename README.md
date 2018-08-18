@@ -3,7 +3,7 @@
 This is to create a draggable marker over **_OpenLayers map_**.I created the marker using the **OverLays** from **OpenLayers**.
 
 
-#####Things you need to run this on your local machine..
+##### Things you need to run this on your local machine..
 
 1) Node.JS
 2) npm (will be installed along with Node.JS)
@@ -11,7 +11,7 @@ This is to create a draggable marker over **_OpenLayers map_**.I created the mar
 4) Git - [Download it here](https://git-scm.com/)
 
 
-#####Steps to load it in your machine
+##### Steps to load it in your machine
 
 1) Clone the repo from my [gihub repo.](https://github.com/HARIKSREEE/DraggableMarkerOpenLayers)
 2) Goto tothe cloned folder in your local machine
