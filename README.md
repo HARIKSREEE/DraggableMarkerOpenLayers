@@ -20,3 +20,7 @@ This is to create a draggable marker over **_OpenLayers map_**.I created the mar
 5) We are using parcel bundler to create the build here
 6) The screen will show a Localhost port to see the output of our code.And it will be on port 1234.
 7) That will be here [ http://localhost:1234/]( http://localhost:1234/)
+
+### The preview of the map is provided below
+
+![OpenLayers Map](/MapPreview.PNG)
