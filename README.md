@@ -13,10 +13,10 @@ This is to create a draggable marker over **_OpenLayers map_**.I created the mar
 
 ##### Steps to load it in your machine
 
-1) Clone the repo from my [gihub repo.](https://github.com/HARIKSREEE/DraggableMarkerOpenLayers)
+1) Clone the repo from my [Github Repo.](https://github.com/HARIKSREEE/DraggableMarkerOpenLayers)
 2) Goto tothe cloned folder in your local machine
-3) Type "**npm install**" - This will install all the dependencies this project need.
-4) After finishing the install- type "**npm start**" 
+3) Type ```npm install``` - This will install all the dependencies this project need.
+4) After finishing the install- type `npm start`
 5) We are using parcel bundler to create the build here
 6) The screen will show a Localhost port to see the output of our code.And it will be on port 1234.
 7) That will be here [ http://localhost:1234/]( http://localhost:1234/)
